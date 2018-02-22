@@ -470,7 +470,7 @@ nav input, textarea {
 }
 nav input:hover, textarea:hover {
 	border-color: var(--main-blue-color);
-	box-shadow: 0 0 1px 1px var(--main-blue-color);
+	box-shadow: 0 0 0 2px var(--main-blue-color);
 }
 nav input[type="checkbox"] {
 	border-color: transparent;
@@ -520,7 +520,7 @@ nav input:focus:after, nav input:hover:after {
 	color: rgb(255,255,255);
 	border-color: var(--main-blue-color);
 	font-weight: 400 !important;
-	box-shadow: 0 0 1px 1px var(--main-blue-color);
+	box-shadow: 0 0 0 2px var(--main-blue-color);
 }
 
 /***************/
